@@ -1,10 +1,10 @@
 #include "main.h"
-
 /**
- * main - Prints followed by a new line.
- *
+ * main - Prints _putchar
+ * is written by enahoro360
  * Return: Always 0.
  */
+
 int main(void)
 {
 	_putchar('H');
