@@ -1,7 +1,10 @@
 #include "main.h"
+
 /**
  * main - Prints _putchar
+ *
  * is written by enahoro360
+ *
  * Return: Always 0.
  */
 
