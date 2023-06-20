@@ -1,13 +1,13 @@
 #include "main.h"
-/**
- * main - Prints _putchar
- * is written by enahoro360
- * Return: 0.
- */
 
+/**
+ * main - Prints  followed by a new line.
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
-	_putchar('h');
+	_putchar('H');
 	_putchar('o');
 	_putchar('l');
 	_putchar('b');
@@ -17,5 +17,6 @@ int main(void)
 	_putchar('o');
 	_putchar('n');
 	_putchar('\n');
+
 	return (0);
 }
