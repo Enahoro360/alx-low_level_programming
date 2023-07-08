@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strlen - This functions is equal to strlen
+ * _strlen - This function is equal to strlen
  *
  * @s: this is my entry
  *

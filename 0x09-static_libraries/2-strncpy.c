@@ -2,7 +2,7 @@
 /**
  * _strncpy - This is my main
  * @dest: This is my dest
- * @src: This is my sources
+ * @src: This is my source
  * @n: This is my N
  *
  *Return: THis is my return

@@ -2,7 +2,7 @@
 #include <limits.h>
 
 /**
- * _atoi - Converts a string to an integer
+ * _atoi - Convert a string to an integer
  * @s: Pointer to the string to convert
  *
  * Return: The integer that was converted
