@@ -1,10 +1,6 @@
-#ifndef LIKEMACRO_H
-#define LIKEMACRO_H
-/**
- * File: 3-function_like_macro
- * @X: input
- * Desc: header file
- */
-#define ABS(X) ((X) < 0 ? -(1) * (X) : (X))
+#ifndef _FUNCTION_LIKE_MACRO_
+#define _FUNCTION_LIKE_MACRO_
+
+#define ABS(x) ((x) < (0) ? ((x) * (-1)) : (x))
 
 #endif

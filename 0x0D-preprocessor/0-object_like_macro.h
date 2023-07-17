@@ -1,10 +1,6 @@
-#ifndef MAIN_H
-#define MAIN_H
-/**
- * File: O-object_like_macro
- *
- * Desc: haeder file
- */
+#ifndef _OBJECT_LIKE_MACRO_
+#define _OBJECT_LIKE_MACRO_
+
 #define SIZE 1024
 
 #endif

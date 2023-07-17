@@ -1,10 +1,6 @@
-#ifndef MACRO_H
-#define MACRO_H
-/**
- * File: 1-pi
- *
- * Desc: header file
- */
+#ifndef _PI_
+#define _PI_
+
 #define PI 3.14159265359
 
 #endif
